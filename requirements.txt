@@ -1,5 +1,6 @@
 setuptools==58.0.4
 streamlit
+undetected-chromedriver
 selenium-stealth
 webdriver-manager
 beautifulsoup4
@@ -7,4 +8,6 @@ pandas
 fuzzywuzzy
 python-Levenshtein
 packaging  # Required to fix distutils issue
-#selenium
+selenium
+requests
+beautifulsoup4
