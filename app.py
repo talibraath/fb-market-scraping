@@ -14,6 +14,8 @@ from selenium.webdriver.chrome.options import Options
 import zipfile
 import io
 import os
+import packaging.version
+
 
 # Function to run the web scraping for exact matches
 def scrape_facebook_marketplace_exact(city, product, min_price, max_price, city_code_fb):

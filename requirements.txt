@@ -7,3 +7,4 @@ pandas
 fuzzywuzzy
 python-Levenshtein
 packaging  # Required to fix distutils issue
+python==3.10
