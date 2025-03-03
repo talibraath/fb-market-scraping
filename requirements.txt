@@ -6,3 +6,4 @@ beautifulsoup4
 pandas
 fuzzywuzzy
 python-Levenshtein
+packaging  # Required to fix distutils issue
